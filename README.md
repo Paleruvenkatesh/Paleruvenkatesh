@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me venkateshpaler2003@gmail.com
+- 📫 How to reach me 
 
 <!---
 Paleruvenkatesh/Paleruvenkatesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
